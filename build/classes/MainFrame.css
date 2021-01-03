@@ -1,0 +1,265 @@
+.head{
+	position:relative;
+	height:90px;
+	top:0px;
+	border:0px;
+}
+.head .title{
+	position:relative;
+	left:1100px;
+	top:30px;
+}
+.image1{
+	position:absolute;
+	left:100px;
+	top:0px;
+	width:200px;
+	border:0px;
+}
+.headmiddle1{
+	position:absolute;
+	height:60px;
+	top:90px;
+	left:0px;
+	width:1300px;
+	clear:none;
+	border:0px;
+	background-color:#D1D1D1;
+}
+.title1{
+	position:absolute;
+	left:100px;
+	top:110px;
+}
+.title2{
+	position:absolute;
+	left:600px;
+	top:110px;
+}
+.title3{
+	position:absolute;
+	left:1100px;
+	top:110px;
+}
+a{
+    	text-decoration: none;
+    	color:black;
+}
+.middle{
+	position:absolute;
+	top:550px;
+	height:1000px;
+	clear:none;
+	border:0px;
+}
+.headmiddle2{
+	position:absolute;
+	height:400px;
+	top:150px;
+	left:0px;
+	clear:none;
+	border:0px;
+}
+.middle .local{
+	position:relative;
+	left:50px;
+	top:40px;
+	height:30px;
+}
+.middle .local h2{
+	color:blue;
+}
+.middle .info1{
+	position:relative;
+	left:50px;
+	top:90px;
+}
+.middle .info2{
+	position:absolute;
+	left:1000px;
+	top:30px;
+}
+a:hover{
+	color: blue;
+}
+.middle .more{
+	position:relative;
+	left:50px;
+	top:130px;
+}
+.middle .shop{
+	position:absolute;
+	top:330px;
+}
+.middle .shop .hr1{
+	position:absolute;
+	top:0px;
+	width:1300px;
+}
+.middle .shop .background{
+	position:absolute;
+	top:20px;
+	height:600px;
+	width:1300px;
+	left:0px;
+	background-color:#D1D1D1;
+}
+.middle .shop .hr2{
+	position:absolute;
+	top:220px;
+	width:1300px;
+}
+.middle .shop .hr3{
+	position:absolute;
+	top:420px;
+	width:1300px;
+}
+.middle .shop .army1{
+	position:absolute;
+	top:0px;
+	height:200px;
+	width:130px;
+	left:0px;
+	background-color: #003366;
+}
+.middle .shop .army1 span{
+	 position:absolute;
+	 top:70px;
+	 left:30px;
+	 color: #CC3333;
+	 font-size:30px;
+	 font-weight:bold
+}
+.middle .shop .armypuct1{
+	position:absolute;
+	top:20px;
+	left:250px;
+}
+.middle .shop .armyname1{
+	position:relative;
+	top:20px;
+	left:500px;
+}
+.middle .shop .armyname12{
+	position:absolute;
+	top:20px;
+	left:1050px;
+}
+.middle .shop .armyname2{
+	position:absolute;
+	top:220px;
+	left:500px;
+}
+.middle .shop .armyname22{
+	position:absolute;
+	top:220px;
+	left:1050px;
+}
+.middle .shop .armyname3{
+	position:absolute;
+	top:450px;
+	left:500px;
+}
+.middle .shop .armyname32{
+	position:absolute;
+	top:450px;
+	left:1050px;
+}
+.middle .shop .armypuct12{
+	position:absolute;
+	top:20px;
+	left:800px;
+}
+.middle .shop .armypuct2{
+	position:absolute;
+	top:220px;
+	left:250px;
+}
+.middle .shop .armypuct22{
+	position:absolute;
+	top:220px;
+	left:800px;
+}
+.middle .shop .armypuct3{
+	position:absolute;
+	top:450px;
+	left:250px;
+}
+.middle .shop .armypuct32{
+	position:absolute;
+	top:450px;
+	left:800px;
+}
+.middle .shop .army2{
+	position:absolute;
+	top:200px;
+	height:200px;
+	width:130px;
+	left:0px;
+	background-color: #003366;
+}
+.middle .shop .army2 span{
+	position:absolute;
+	 top:70px;
+	 left:30px;
+	 color: #CC3333;
+	 font-size:30px;
+	 font-weight:bold
+}
+.middle .shop .army3{
+	position:absolute;
+	top:400px;
+	height:200px;
+	width:130px;
+	left:0px;
+	background-color: #003366;
+}
+.middle .shop .army3 span{
+	 position:absolute;
+	 top:55px;
+	 left:30px;
+	 color: #CC3333;
+	 font-size:30px;
+	 font-weight:bold
+}
+.middle .shop .menu1{
+	position:absolute;
+	top:40px;
+}
+*{
+	margin:0;
+	padding:0;
+}
+.tail{
+	 position:absolute;
+	 top:1500px;
+}
+.tail .background{
+	 position:absolute;
+	 top:0px;
+	 left:0px;
+	 width:1300px;
+	 height:200px;
+	 background-color: #515151;
+}
+.tail .contain{
+	position:relative;
+	top:30px;
+	left:50px;
+}
+.tail .contain a{
+	 color: white;
+	 font-size:18px;
+}
+.tail .contain a:hover{
+	 color: blue;
+}
+.tail .contain2{
+	position:relative;
+	top:80px;
+	left:50px;
+}
+.tail .contain2 span{
+	 color: white;
+	 font-size:13px;
+}
